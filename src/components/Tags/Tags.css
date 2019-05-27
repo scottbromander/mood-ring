@@ -1,0 +1,11 @@
+.tag {
+    border: 1px solid black;
+    border-radius: 25px;
+    display: inline-block;
+    width: 100px;
+    margin: 10px;
+}
+
+.tag:hover {
+    background-color: lightsalmon;
+}
